@@ -17,7 +17,3 @@ def test_add():
 def test_divide():
     with pytest.raises(ZeroDivisionError):
         divide(10, 0)
-
-
-
-
