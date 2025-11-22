@@ -16,5 +16,3 @@ def divide(a, b):
 # SECRET_ACCESS = "12345"
 
 # Extra blank line below to trigger Flake8 rule
-
-
