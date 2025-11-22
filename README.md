@@ -1,3 +1,5 @@
+![CI Status](https://github.com/AmenDesta/secure-ci-cd-pipeline/actions/workflows/secure-pipeline.yml/badge.svg)
+
 Secure CI/CD Pipeline with GitHub Actions
 Overview
 This project demonstrates a secure CI/CD pipeline using GitHub Actions. It automates testing, linting, and secret scanning to ensure code quality and prevent credential leaks before deployment.
