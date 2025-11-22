@@ -15,4 +15,3 @@ def divide(a, b):
 # Simulated secret for Gitleaks to catch
 # SECRET_ACCESS = "12345"
 # Extra blank line below to trigger Flake8 rule
-
