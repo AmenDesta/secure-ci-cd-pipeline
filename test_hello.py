@@ -1,3 +1,5 @@
+"""Unit tests for hello.py functions."""
+
 from hello import greet, add, divide
 import pytest
 
