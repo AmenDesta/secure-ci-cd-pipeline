@@ -15,5 +15,5 @@ def test_add():
 
 
 def test_divide():
-    with pytest.raises(ZeroDivisionError):
+    with pytest.raises(ValueError):
         divide(10, 0)
